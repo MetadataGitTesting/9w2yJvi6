@@ -1,0 +1,58 @@
+name: darline.rohan
+description: full-range
+version: 0.36.878
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: darlinerohan
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:39:08'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:39:08'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:39:08.039879Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '359256225'
+  createdAt: '2025-09-19T23:39:08.039879Z'
+  type: plibMaven
+projectDependencies:
+  '447':
+    projectUID: 447
+    projectName: dorian.mueller
+    repositoryPath: gitUri=http://gitserver:3000/dev_4bIf6VI2_team_746/dev_4bIf6VI2_project_447.git&subPath=
+    version: dorian.mueller/0.30.779
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:39:05'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
